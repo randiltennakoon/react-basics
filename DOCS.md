@@ -4,4 +4,9 @@
 ```
 npx create-react-app .
 ```
-  
+
+### Starting the application
+```
+npm start
+```
+
